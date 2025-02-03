@@ -1,5 +1,4 @@
-# Drep-V1
-first cardano drep vote ratifying constitution
+
 [Uploading {
   "@context": {
     "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
